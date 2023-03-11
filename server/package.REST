@@ -1,0 +1,18 @@
+DELETE  http://localhost:3000/deletePackage
+Content-Type: application/json
+
+
+{
+    "name":"grand Masti",
+    "id":"640bc9a9d38e36ff8519795e"
+}
+
+
+
+# POST http://localhost:3000
+# Content-Type: application/json
+
+
+# {
+#     "name":"express"
+# }
